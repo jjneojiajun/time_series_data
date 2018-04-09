@@ -32,7 +32,7 @@ You need R-Studio and R to be able to run the R File.
 
 ## Built With
 
-* [R](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [R Studio](https://maven.apache.org/) - Dependency Management
+* [R](https://www.r-project.org/) - The R Project for Statistical Computing
+* [R Studio](https://www.rstudio.com/) - Professional Software for R
 
 
